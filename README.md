@@ -9,7 +9,7 @@ Link do repositório: [github.com/KeinanSZ/app-delivery](https://github.com/Kein
 
 ## Como executar
 1. Instale o Node.js (versão LTS).
-2. Na pasta `delivery-app`, execute `npm install`.
+2. Na pasta `app-delivery`, execute `npm install`.
 3. Confira se o arquivo `.env` contém `VITE_API_URL=https://dummyjson.com`.
 4. Execute `npm run dev` e abra a URL indicada no terminal.
 5. Para validar a versão de entrega, execute `npm run build`.
