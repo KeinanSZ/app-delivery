@@ -27,10 +27,7 @@ Link do repositório: [github.com/KeinanSZ/app-delivery](https://github.com/Kein
 
 O DummyJSON simula as operações de escrita. Alterações ficam no estado da página e somem ao recarregar. Os pratos criados recebem o ID 51; se edição ou exclusão retornar 404, a interface avisa e aplica a alteração somente nesta sessão.
 
-## Organização para entrega
-- Publiquem o repositório no GitHub e incluam commits reais dos dois integrantes.
-- Os nomes da dupla e o link do GitHub já estão preenchidos.
-- Gerem um ZIP da pasta do projeto **sem `node_modules`** e enviem o mesmo arquivo no AVA.
+
 
 ## Divisão da dupla
 - Keinan: estrutura inicial, autenticação e integração com a API.
