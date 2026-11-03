@@ -31,3 +31,7 @@ O DummyJSON simula as operações de escrita. Alterações ficam no estado da p�
 - Publiquem o repositório no GitHub e incluam commits reais dos dois integrantes.
 - Os nomes da dupla e o link do GitHub já estão preenchidos.
 - Gerem um ZIP da pasta do projeto **sem `node_modules`** e enviem o mesmo arquivo no AVA.
+
+## Divisão da dupla
+- Keinan: estrutura inicial, autenticação e integração com a API.
+- Maycon: componentes do cardápio, operações de pratos e documentação.
